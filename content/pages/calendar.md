@@ -11,46 +11,445 @@ During the first seven weeks of the course, the class attends a series of lectur
 {{< anchor "experiments_schedule" >}}{{< /anchor >}}Experiments Schedule
 ------------------------------------------------------------------------
 
-| SES # | GROUP a | GROUP b |
-| --- | --- | --- |
-| 1 || {{< td-colspan 2 >}}Laboratory Check-In{{< /td-colspan >}} ||
-| 2 | Kinetics Day 1 | NMR Day 1 |
-| 3 | Kinetics Day 2 | NMR Day 2 |
-| 4 | Kinetics Day 3  {{< br >}}  {{< br >}}Lab Quiz | NMR Day 3  {{< br >}}  {{< br >}}Lab Quiz |
-| 5 | Kinetics Day 4 | NMR Day 4 |
-| 6 | NMR Day 1 | Kinetics Day 1 |
-| 7 | NMR Day 2  {{< br >}}  {{< br >}}Kinetics Report Due | Kinetics Day 2  {{< br >}}  {{< br >}}NMR Report Due |
-| 8 | NMR Day 3  {{< br >}}  {{< br >}}Lab Quiz | Kinetics Day 3  {{< br >}}  {{< br >}}Lab Quiz |
-| 9 | NMR Day 4 | Kinetics Day 4 |
-| 10 | Unknown C.A. Day 1  {{< br >}}  {{< br >}}NMR Report Due | Ferrocene Day 1  {{< br >}}  {{< br >}}Kinetics Report Due |
-| 11 | Unknown C.A. Day 2 | Ferrocene Day 2 |
-| 12 | Unknown C.A. Day 3  {{< br >}}  {{< br >}}Lab Quiz | Ferrocene Day 3  {{< br >}}  {{< br >}}Lab Quiz |
-| 13 | Unknown C.A. Day 4 | Ferrocene Day 4 |
-| 14 | Unknown C.A. Day 5 | Ferrocene Day 5 |
-| 15 | Ferrocene Day 1 | Unknown C.A. Day 1 |
-| 16 | Ferrocene Day 2  {{< br >}}  {{< br >}}Unknown C.A. Report Due | Unknown C.A. Day 2  {{< br >}}  {{< br >}}Ferrocene Report Due |
-| 17 | Ferrocene Day 3  {{< br >}}  {{< br >}}Lab Quiz | Unknown C.A. Day 3  {{< br >}}  {{< br >}}Lab Quiz |
-| 18 | Ferrocene Day 4 | Unknown C.A. Day 4 |
-| 19 | Ferrocene Day 5 | Unknown C.A. Day 5 |
-| 20 || {{< td-colspan 2 >}}Laboratory Check-Out{{< /td-colspan >}} ||
-| 21 | Ferrocene Oral Reports | Unknown C.A. Oral Reports |
-| 22 | Ferrocene Oral Reports (cont.) | Unknown C.A. Oral Reports (cont.) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+GROUP a
+{{< thclose >}}
+{{< thopen >}}
+GROUP b
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Laboratory Check-In
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics Day 1
+{{< tdclose >}}
+{{< tdopen >}}
+NMR Day 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics Day 2
+{{< tdclose >}}
+{{< tdopen >}}
+NMR Day 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics Day 3  
+  
+Lab Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+NMR Day 3  
+  
+Lab Quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics Day 4
+{{< tdclose >}}
+{{< tdopen >}}
+NMR Day 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+NMR Day 1
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics Day 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+NMR Day 2  
+  
+Kinetics Report Due
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics Day 2  
+  
+NMR Report Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+NMR Day 3  
+  
+Lab Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics Day 3  
+  
+Lab Quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+NMR Day 4
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics Day 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Unknown C.A. Day 1  
+  
+NMR Report Due
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrocene Day 1  
+  
+Kinetics Report Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Unknown C.A. Day 2
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrocene Day 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Unknown C.A. Day 3  
+  
+Lab Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrocene Day 3  
+  
+Lab Quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Unknown C.A. Day 4
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrocene Day 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Unknown C.A. Day 5
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrocene Day 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrocene Day 1
+{{< tdclose >}}
+{{< tdopen >}}
+Unknown C.A. Day 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrocene Day 2  
+  
+Unknown C.A. Report Due
+{{< tdclose >}}
+{{< tdopen >}}
+Unknown C.A. Day 2  
+  
+Ferrocene Report Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrocene Day 3  
+  
+Lab Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+Unknown C.A. Day 3  
+  
+Lab Quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrocene Day 4
+{{< tdclose >}}
+{{< tdopen >}}
+Unknown C.A. Day 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrocene Day 5
+{{< tdclose >}}
+{{< tdopen >}}
+Unknown C.A. Day 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Laboratory Check-Out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrocene Oral Reports
+{{< tdclose >}}
+{{< tdopen >}}
+Unknown C.A. Oral Reports
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrocene Oral Reports (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Unknown C.A. Oral Reports (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "lecture_schedule" >}}{{< /anchor >}}Lecture Schedule
 ----------------------------------------------------------------
 
-| Lec # | Topics |
-| --- | --- |
-| 1 | Mandatory Safety Lecture |
-| 2 | Introduction to the Laboratory  {{< br >}}  {{< br >}}Kinetics I |
-| 3 | NMR I |
-| 4 | Kinetics II |
-| 5 | NMR II |
-| 6 | Data Analysis and Error Analysis |
-| 7 | Writing Laboratory Reports |
-| 8 | Unknown Carboxylic Acids I |
-| 9 | Unknown Carboxylic Acids II |
-| 10 | Ferrocene I |
-| 11 | Ferrocene Molecular Orbitals Calculation with Spartan |
-| 12 | Ferrocene II |
-| 13 | Oral Report Workshop
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Mandatory Safety Lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Laboratory  
+  
+Kinetics I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+NMR I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+NMR II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Data Analysis and Error Analysis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Writing Laboratory Reports
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Unknown Carboxylic Acids I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Unknown Carboxylic Acids II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrocene I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrocene Molecular Orbitals Calculation with Spartan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrocene II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Report Workshop
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

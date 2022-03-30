@@ -7,6 +7,7 @@ description: This resource describes the purpose of preparation of ferrocene and
   anhydride in ionic liquid, and column chromatography.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-311-introductory-chemical-experimentation-fall-2005/9917d701935385a4f4302f330687d6f8_ferrocene.pdf
 file_type: application/pdf
+parent_uid: 4b181a6c-030a-ce24-893d-63d8f0842e92
 resourcetype: Document
 title: ferrocene.pdf
 uid: 9917d701-9353-85a4-f430-2f330687d6f8
